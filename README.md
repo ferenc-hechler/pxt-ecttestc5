@@ -86,6 +86,16 @@ reduced etutils.h/.cpp, renamed log() to etlog()
 
 renamed etlog() back to log()
 
+- CALLIOPE HW
+- MICROBIT HW
+
+Bug in exttestc.cpp (renamed method etlog() was still called)
+
+### v0.3.6:
+
+fixed wrong calls of etlog() in exttestc.cpp.
+
+
 
 
 
